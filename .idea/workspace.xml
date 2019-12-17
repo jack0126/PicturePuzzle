@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0dfd8d40-b2ec-424c-90d2-9906c0e9c03e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/GameCommandPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/GameModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/GameView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/ImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/res/Res.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/res/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/res/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/res/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/util/DateTimeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/demo/example1/util/LayoutUtils.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/example1/MainFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-342">
+              <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+              <folding>
+                <element signature="e#4088#4089#0" expanded="true" />
+                <element signature="e#4122#4123#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/example1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/example1/GameCommandPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+              <folding>
+                <element signature="e#2115#2116#0" expanded="true" />
+                <element signature="e#2159#2160#0" expanded="true" />
+                <element signature="e#2201#2202#0" expanded="true" />
+                <element signature="e#2280#2281#0" expanded="true" />
+                <element signature="e#2322#2323#0" expanded="true" />
+                <element signature="e#2369#2370#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/demo/example1/GameView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#628#629#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#931#932#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>8</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameDataView.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameDataModel.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/util/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/util/PaddingUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameControlPane.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/util/ViewUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/util/LayoutUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameStatePane.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/util/DateTimeUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameView.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/ImageView.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameModel.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/GameCommandPane.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/res/Resource.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/res/Res.java" />
+        <option value="$PROJECT_DIR$/src/com/demo/example1/MainFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="170" />
+    <option name="y" value="5" />
+    <option name="width" value="1272" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="example1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="example1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/demo/example1" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hesanxing\Documents\IdeaProjects\example1\src\com\demo\example1\resource" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hesanxing\Documents\IdeaProjects\example1\src\com\demo\example1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.example1.Main" />
+      <module name="example1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0dfd8d40-b2ec-424c-90d2-9906c0e9c03e" name="Default Changelist" comment="" />
+      <created>1576323224825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576323224825</updated>
+      <workItem from="1576323226806" duration="1945000" />
+      <workItem from="1576405246035" duration="603000" />
+      <workItem from="1576405958519" duration="22324000" />
+      <workItem from="1576456405061" duration="40173000" />
+      <workItem from="1576507356338" duration="196000" />
+      <workItem from="1576507583377" duration="287000" />
+      <workItem from="1576507900403" duration="89000" />
+      <workItem from="1576543661059" duration="14433000" />
+      <workItem from="1576585641708" duration="9497000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89547000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48948374" visible="true" weight="0.27936962" />
+      <window_info id="Structure" order="1" sideWeight="0.5105162" side_tool="true" visible="true" weight="0.27936962" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29514825" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/jdk/src.zip!/java/awt/LayoutManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/awt/GridLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="92" column="41" selection-start-line="92" selection-start-column="41" selection-end-line="92" selection-end-column="41" />
+          <folding>
+            <element signature="e#4996#4997#0" expanded="true" />
+            <element signature="e#5034#5035#0" expanded="true" />
+            <element signature="e#6628#6629#0" expanded="true" />
+            <element signature="e#6655#6656#0" expanded="true" />
+            <element signature="e#8445#8446#0" expanded="true" />
+            <element signature="e#8472#8473#0" expanded="true" />
+            <element signature="e#8693#8694#0" expanded="true" />
+            <element signature="e#8725#8726#0" expanded="true" />
+            <element signature="e#8903#8904#0" expanded="true" />
+            <element signature="e#8930#8931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1132">
+          <caret line="378" column="17" selection-start-line="378" selection-start-column="17" selection-end-line="378" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/GroupLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="371" column="11" selection-start-line="371" selection-start-column="11" selection-end-line="371" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="203" column="11" selection-start-line="203" selection-start-column="11" selection-end-line="203" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="242" column="16" selection-start-line="242" selection-start-column="16" selection-end-line="242" selection-end-column="16" />
+          <folding>
+            <element signature="e#4798#4799#0" expanded="true" />
+            <element signature="e#4845#4846#0" expanded="true" />
+            <element signature="e#5359#5360#0" expanded="true" />
+            <element signature="e#5416#5417#0" expanded="true" />
+            <element signature="e#7783#7784#0" expanded="true" />
+            <element signature="e#7829#7830#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/KeyStroke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="302" column="28" selection-start-line="302" selection-start-column="28" selection-end-line="302" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/util/PaddingUtils.java" />
+    <entry file="jar://C:/jdk/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="579" column="63" selection-start-line="579" selection-start-column="22" selection-end-line="579" selection-end-column="63" />
+          <folding>
+            <element signature="e#23443#23444#0" expanded="true" />
+            <element signature="e#23515#23516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/awt/FlowLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="214" column="11" selection-start-line="214" selection-start-column="11" selection-end-line="214" selection-end-column="11" />
+          <folding>
+            <element signature="e#5403#5404#0" expanded="true" />
+            <element signature="e#5437#5438#0" expanded="true" />
+            <element signature="e#5905#5906#0" expanded="true" />
+            <element signature="e#5938#5939#0" expanded="true" />
+            <element signature="e#7340#7341#0" expanded="true" />
+            <element signature="e#7371#7372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/BoxLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="229" column="21" selection-start-line="229" selection-start-column="21" selection-end-line="229" selection-end-column="21" />
+          <folding>
+            <element signature="e#7863#7864#0" expanded="true" />
+            <element signature="e#7897#7898#0" expanded="true" />
+            <element signature="e#8282#8283#0" expanded="true" />
+            <element signature="e#8314#8315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/Box.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="110" column="22" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="22" />
+          <folding>
+            <element signature="e#3123#3124#0" expanded="true" />
+            <element signature="e#3171#3172#0" expanded="true" />
+            <element signature="e#3635#3636#0" expanded="true" />
+            <element signature="e#3683#3684#0" expanded="true" />
+            <element signature="e#8634#8635#0" expanded="true" />
+            <element signature="e#8687#8688#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/lang/FunctionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="2259" column="24" selection-start-line="2259" selection-start-column="24" selection-end-line="2259" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="920" column="28" selection-start-line="920" selection-start-column="28" selection-end-line="920" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/imageio/ImageIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="1392" column="17" selection-start-line="1392" selection-start-column="17" selection-end-line="1392" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/filechooser/FileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/UIManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="657" column="29" selection-start-line="657" selection-start-column="29" selection-end-line="657" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/util/ArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="2880" column="53" lean-forward="true" selection-start-line="2880" selection-start-column="53" selection-end-line="2880" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/awt/Toolkit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="963" column="26" selection-start-line="963" selection-start-column="26" selection-end-line="963" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="1056" column="30" lean-forward="true" selection-start-line="1055" selection-start-column="28" selection-end-line="1056" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="1488" column="18" selection-start-line="1488" selection-start-column="18" selection-end-line="1488" selection-end-column="18" />
+          <folding>
+            <element signature="e#57315#57316#0" expanded="true" />
+            <element signature="e#57347#57348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="3667" column="48" selection-start-line="3667" selection-start-column="48" selection-end-line="3667" selection-end-column="48" />
+          <folding>
+            <element signature="e#41124#41125#0" expanded="true" />
+            <element signature="e#41170#41171#0" expanded="true" />
+            <element signature="e#128104#128105#0" expanded="true" />
+            <element signature="e#128164#128165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk/src.zip!/javax/swing/JPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding>
+            <element signature="e#2361#2362#0" expanded="true" />
+            <element signature="e#2395#2396#0" expanded="true" />
+            <element signature="e#2857#2858#0" expanded="true" />
+            <element signature="e#2913#2914#0" expanded="true" />
+            <element signature="e#3040#3041#0" expanded="true" />
+            <element signature="e#3066#3067#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/util/LayoutUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/util/DateTimeUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/res/cursor.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/res/icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/res/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/ImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/GameModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2300">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/GameView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/GameCommandPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding>
+            <element signature="e#2115#2116#0" expanded="true" />
+            <element signature="e#2159#2160#0" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+            <element signature="e#2280#2281#0" expanded="true" />
+            <element signature="e#2322#2323#0" expanded="true" />
+            <element signature="e#2369#2370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/res/Res.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="49" column="49" lean-forward="true" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="e#4088#4089#0" expanded="true" />
+            <element signature="e#4122#4123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/demo/example1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
