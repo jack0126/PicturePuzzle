@@ -1,7 +1,7 @@
 # PicturePuzzle
 ``` bash
-Ê¹ÓÃ MVCÉè¼ÆÄ£Ê½¿ª·¢µÄÒ»¸öÆ´Í¼Ð¡ÓÎÏ·
-±¾ÖÜÄ©ÔÚ¶¶ÒôÖ±²¥(¶¶ÒôºÅ:jack0126)½²½â ´Ë demoÒÔ¼° MVCÉè¼ÆÄ£Ê½¡£
+ä½¿ç”¨ MVCè®¾è®¡æ¨¡å¼å¼€å‘çš„ä¸€ä¸ªæ‹¼å›¾å°æ¸¸æˆ
+æœ¬å‘¨æœ«åœ¨æŠ–éŸ³ç›´æ’­(æŠ–éŸ³å·:jack0126)è®²è§£ æ­¤ demoä»¥åŠ MVCè®¾è®¡æ¨¡å¼ã€‚
 ```
 
 # Dependencies
@@ -9,5 +9,6 @@
 * `Java >= 1.8`
 
 # Author
-*Jack*
+*Jack*:
+
 We welcome comments, contributions, bug reports, wiki documentation, etc.
