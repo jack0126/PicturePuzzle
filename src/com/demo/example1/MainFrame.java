@@ -125,7 +125,7 @@ public class MainFrame extends JFrame implements ActionListener, KeyListener, Ga
 
     @Override
     public void onComplete() {
-        mIsGameOver = true;
+        onStop();
         JOptionPane.showMessageDialog(this, "Game over!");
     }
 

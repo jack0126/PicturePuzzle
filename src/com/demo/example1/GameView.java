@@ -27,10 +27,12 @@ public class GameView extends JPanel implements GameModel.DataView {
     }
 
     public void setImageSource(URL url) {
-        mImageSource = url;
-        mImages = null;
-        if (mGameModel != null) {
-            mGameModel.notifyChanged();
+        if (url != mImageSource) {
+            mImageSource = url;
+            mImages = null;
+            if (mGameModel != null) {
+                mGameModel.notifyChanged();
+            }
         }
     }
 
