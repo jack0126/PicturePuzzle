@@ -2,6 +2,7 @@ package com.demo.example1;
 
 import com.demo.example1.util.ArrayUtils;
 
+import java.awt.*;
 import java.util.Arrays;
 import java.util.Random;
 
@@ -145,7 +146,7 @@ public class GameModel {
         }
 
         if (mOnCompletedListener != null) {
-            mOnCompletedListener.onComplete();
+            EventQueue.invokeLater(() -> mOnCompletedListener.onComplete());
         }
     }
 }
