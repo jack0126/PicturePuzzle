@@ -139,14 +139,14 @@ public class GameModel {
     }
 
     private void checkComplete() {
-        for (int i = 0; i < mFixedSize; i++) {
-            if (mData[i] != i) {
-                return;
-            }
-        }
-
         if (mOnCompletedListener != null) {
-            EventQueue.invokeLater(() -> mOnCompletedListener.onComplete());
+            for (int i = 0; i < mFixedSize; i++) {
+                if (mData[i] != i) {
+                    return;
+                }
+            }
+
+            EventQueue.invokeLater(mOnCompletedListener::onComplete);
         }
     }
 }
